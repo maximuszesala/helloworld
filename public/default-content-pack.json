@@ -1,0 +1,444 @@
+{
+  "user_manuel_formalredtie": {
+    "scale": {
+      "x": 1.15,
+      "y": 1.16,
+      "z": 1.15
+    },
+    "position": {
+      "x": 0,
+      "y": -0.75,
+      "z": 0.02
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "menuScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "resourceId": "artifact:1897756445093396998",
+    "attachPoint": "spine-middle",
+    "menuPosition": {
+      "x": 0,
+      "y": -0.4,
+      "z": 0
+    },
+    "menuRotation": {
+      "x": 0,
+      "y": 180,
+      "z": 0
+    }
+  },
+  "user_max_supermanblackcostume": {
+    "scale": {
+      "x": 0.83,
+      "y": 0.83,
+      "z": 0.83
+    },
+    "position": {
+      "x": 0,
+      "y": -0.55,
+      "z": -0.5
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "menuScale": {
+      "x": 0.5,
+      "y": 0.5,
+      "z": 0.5
+    },
+    "resourceId": "artifact:1892056199260537446",
+    "attachPoint": "spine-middle",
+    "menuPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0.2
+    },
+    "menuRotation": {
+      "x": 0,
+      "y": 180,
+      "z": 0
+    }
+  },
+  "user_hypnomaster_redphnxtat": {
+    "scale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "position": {
+      "x": 0,
+      "y": -0.33,
+      "z": 0.03
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "menuScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "resourceId": "artifact:1889899997483237771",
+    "attachPoint": "spine-middle",
+    "menuPosition": {
+      "x": 0,
+      "y": -0.1,
+      "z": 0
+    },
+    "menuRotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+},
+  "user_hypnomaster_rednwhitebikiniv1": {
+    "scale": {
+      "x": 2.3,
+      "y": 2,
+      "z": 2.3
+    },
+    "position": {
+      "x": 0,
+      "y": -0.95,
+      "z": -0.03
+    },
+    "rotation": {
+      "x": 2,
+      "y": 0,
+      "z": 0
+    },
+    "menuScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "resourceId": "artifact:1902936446830903612",
+    "attachPoint": "spine-middle",
+    "menuPosition": {
+      "x": 0,
+      "y": -0.1,
+      "z": 0
+    },
+    "menuRotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  },
+  "forsale_whitengold_bikiniv1": {
+    "scale": {
+      "x": 2.3,
+      "y": 2,
+      "z": 2.3
+    },
+    "position": {
+      "x": 0,
+      "y": -0.95,
+      "z": -0.03
+    },
+    "rotation": {
+      "x": 2,
+      "y": 0,
+      "z": 0
+    },
+    "menuScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "resourceId": "artifact:1902936447611044161",
+    "attachPoint": "spine-middle",
+    "menuPosition": {
+      "x": 0,
+      "y": -0.1,
+      "z": 0
+    },
+    "menuRotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  },
+  "forsale_silvernred_bikiniv1": {
+    "scale": {
+      "x": 2.3,
+      "y": 2,
+      "z": 2.3
+    },
+    "position": {
+      "x": 0,
+      "y": -0.95,
+      "z": -0.03
+    },
+    "rotation": {
+      "x": 2,
+      "y": 0,
+      "z": 0
+    },
+    "menuScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "resourceId": "artifact:1902936447745261890",
+    "attachPoint": "spine-middle",
+    "menuPosition": {
+      "x": 0,
+      "y": -0.1,
+      "z": 0
+    },
+    "menuRotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  },
+  "forsale_silver_bikiniv1": {
+    "scale": {
+      "x": 2.3,
+      "y": 2,
+      "z": 2.3
+    },
+    "position": {
+      "x": 0,
+      "y": -0.95,
+      "z": -0.03
+    },
+    "rotation": {
+      "x": 2,
+      "y": 0,
+      "z": 0
+    },
+    "menuScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "resourceId": "artifact:1902936447879479619",
+    "attachPoint": "spine-middle",
+    "menuPosition": {
+      "x": 0,
+      "y": -0.1,
+      "z": 0
+    },
+    "menuRotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  },
+  "forsale_rednblack_bikiniv1": {
+    "scale": {
+      "x": 2.3,
+      "y": 2,
+      "z": 2.3
+    },
+    "position": {
+      "x": 0,
+      "y": -0.95,
+      "z": -0.03
+    },
+    "rotation": {
+      "x": 2,
+      "y": 0,
+      "z": 0
+    },
+    "menuScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "resourceId": "artifact:1902936446956732733",
+    "attachPoint": "spine-middle",
+    "menuPosition": {
+      "x": 0,
+      "y": -0.1,
+      "z": 0
+    },
+    "menuRotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  },
+  "forsale_red_bikiniv1": {
+    "scale": {
+      "x": 2.3,
+      "y": 2,
+      "z": 2.3
+    },
+    "position": {
+      "x": 0,
+      "y": -0.95,
+      "z": -0.03
+    },
+    "rotation": {
+      "x": 2,
+      "y": 0,
+      "z": 0
+    },
+    "menuScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "resourceId": "artifact:1902936446696685883",
+    "attachPoint": "spine-middle",
+    "menuPosition": {
+      "x": 0,
+      "y": -0.1,
+      "z": 0
+    },
+    "menuRotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  },
+  "forsale_Prizegold_bikiniv1": {
+    "scale": {
+      "x": 2.3,
+      "y": 2,
+      "z": 2.3
+    },
+    "position": {
+      "x": 0,
+      "y": -0.95,
+      "z": -0.03
+    },
+    "rotation": {
+      "x": 2,
+      "y": 0,
+      "z": 0
+    },
+    "menuScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "resourceId": "artifact:1902936447216779583",
+    "attachPoint": "spine-middle",
+    "menuPosition": {
+      "x": 0,
+      "y": -0.1,
+      "z": 0
+    },
+    "menuRotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  },
+  "forsale_goldnwhite_bikiniv1": {
+    "scale": {
+      "x": 2.3,
+      "y": 2,
+      "z": 2.3
+    },
+    "position": {
+      "x": 0,
+      "y": -0.95,
+      "z": -0.03
+    },
+    "rotation": {
+      "x": 2,
+      "y": 0,
+      "z": 0
+    },
+    "menuScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "resourceId": "artifact:1902936447350997312",
+    "attachPoint": "spine-middle",
+    "menuPosition": {
+      "x": 0,
+      "y": -0.1,
+      "z": 0
+    },
+    "menuRotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  },
+  "forsale_gold_bikiniv1": {
+    "scale": {
+      "x": 2.3,
+      "y": 2,
+      "z": 2.3
+    },
+    "position": {
+      "x": 0,
+      "y": -0.95,
+      "z": -0.03
+    },
+    "rotation": {
+      "x": 2,
+      "y": 0,
+      "z": 0
+    },
+    "menuScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "resourceId": "artifact:1902936447090950462",
+    "attachPoint": "spine-middle",
+    "menuPosition": {
+      "x": 0,
+      "y": -0.1,
+      "z": 0
+    },
+    "menuRotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  },
+  "forsale_black_bikiniv1": {
+    "scale": {
+      "x": 2.3,
+      "y": 2,
+      "z": 2.3
+    },
+    "position": {
+      "x": 0,
+      "y": -0.95,
+      "z": -0.03
+    },
+    "rotation": {
+      "x": 2,
+      "y": 0,
+      "z": 0
+    },
+    "menuScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "resourceId": "artifact:1902936446436639034",
+    "attachPoint": "spine-middle",
+    "menuPosition": {
+      "x": 0,
+      "y": -0.1,
+      "z": 0
+    },
+    "menuRotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  }
+}
