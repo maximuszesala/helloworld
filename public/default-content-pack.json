@@ -1,5 +1,5 @@
 {
-  "user_manuel_formalredtie": {
+  "user_manuel_formalredtie1": {
     "scale": {
       "x": 1.15,
       "y": 1.16,
@@ -33,7 +33,7 @@
       "z": 0
     }
   },
-  "user_max_supermanblackcostume": {
+  "user_max_supermanblackcostume2": {
     "scale": {
       "x": 0.83,
       "y": 0.83,
@@ -67,7 +67,7 @@
       "z": 0
     }
   },
-  "user_hypnomaster_redphnxtat": {
+  "user_hypnomaster_redphnxtat3": {
     "scale": {
       "x": 1,
       "y": 1,
@@ -101,7 +101,7 @@
       "z": 0
     }
 },
-  "user_hypnomaster_rednwhitebikiniv1": {
+  "user_hypnomaster_rednwhitebikini4": {
     "scale": {
       "x": 2.3,
       "y": 2,
@@ -122,7 +122,7 @@
       "y": 1,
       "z": 1
     },
-    "resourceId": "artifact:1902936446830903612",
+    "resourceId": "artifact:1906132191629279904",
     "attachPoint": "spine-middle",
     "menuPosition": {
       "x": 0,
@@ -135,7 +135,7 @@
       "z": 0
     }
   },
-  "forsale_whitengold_bikiniv1": {
+  "forsale_whitengold_bikini5": {
     "scale": {
       "x": 2.3,
       "y": 2,
@@ -156,7 +156,7 @@
       "y": 1,
       "z": 1
     },
-    "resourceId": "artifact:1902936447611044161",
+    "resourceId": "artifact:1906132192803685032",
     "attachPoint": "spine-middle",
     "menuPosition": {
       "x": 0,
@@ -169,7 +169,7 @@
       "z": 0
     }
   },
-  "forsale_silvernred_bikiniv1": {
+  "forsale_silvernred_bikini6": {
     "scale": {
       "x": 2.3,
       "y": 2,
@@ -190,7 +190,7 @@
       "y": 1,
       "z": 1
     },
-    "resourceId": "artifact:1902936447745261890",
+    "resourceId": "artifact:1906132192015155875",
     "attachPoint": "spine-middle",
     "menuPosition": {
       "x": 0,
@@ -203,7 +203,7 @@
       "z": 0
     }
   },
-  "forsale_silver_bikiniv1": {
+  "silver_bikini7": {
     "scale": {
       "x": 2.3,
       "y": 2,
@@ -224,7 +224,7 @@
       "y": 1,
       "z": 1
     },
-    "resourceId": "artifact:1902936447879479619",
+    "resourceId": "artifact:1906132191889326754",
     "attachPoint": "spine-middle",
     "menuPosition": {
       "x": 0,
@@ -237,7 +237,7 @@
       "z": 0
     }
   },
-  "forsale_rednblack_bikiniv1": {
+  "rene_rednblack_bikini8": {
     "scale": {
       "x": 2.3,
       "y": 2,
@@ -258,7 +258,7 @@
       "y": 1,
       "z": 1
     },
-    "resourceId": "artifact:1902936446956732733",
+    "resourceId": "artifact:1906132191360844447",
     "attachPoint": "spine-middle",
     "menuPosition": {
       "x": 0,
@@ -271,7 +271,7 @@
       "z": 0
     }
   },
-  "forsale_red_bikiniv1": {
+  "forsale_red_bikini9": {
     "scale": {
       "x": 2.3,
       "y": 2,
@@ -292,7 +292,7 @@
       "y": 1,
       "z": 1
     },
-    "resourceId": "artifact:1902936446696685883",
+    "resourceId": "artifact:1906132192283591333",
     "attachPoint": "spine-middle",
     "menuPosition": {
       "x": 0,
@@ -305,7 +305,7 @@
       "z": 0
     }
   },
-  "forsale_Prizegold_bikiniv1": {
+  "forsale_Prizegold_bikini10": {
     "scale": {
       "x": 2.3,
       "y": 2,
@@ -326,7 +326,7 @@
       "y": 1,
       "z": 1
     },
-    "resourceId": "artifact:1902936447216779583",
+    "resourceId": "artifact:1906132191755109025",
     "attachPoint": "spine-middle",
     "menuPosition": {
       "x": 0,
@@ -339,7 +339,7 @@
       "z": 0
     }
   },
-  "forsale_goldnwhite_bikiniv1": {
+  "forsale_goldnwhite_bikini11": {
     "scale": {
       "x": 2.3,
       "y": 2,
@@ -360,7 +360,7 @@
       "y": 1,
       "z": 1
     },
-    "resourceId": "artifact:1902936447350997312",
+    "resourceId": "artifact:1906132191235015326",
     "attachPoint": "spine-middle",
     "menuPosition": {
       "x": 0,
@@ -373,7 +373,7 @@
       "z": 0
     }
   },
-  "forsale_gold_bikiniv1": {
+  "gold_bikini12": {
     "scale": {
       "x": 2.3,
       "y": 2,
@@ -394,7 +394,41 @@
       "y": 1,
       "z": 1
     },
-    "resourceId": "artifact:1902936447090950462",
+    "resourceId": "artifact:1906132192149373604",
+    "attachPoint": "spine-middle",
+    "menuPosition": {
+      "x": 0,
+      "y": -0.1,
+      "z": 0
+    },
+    "menuRotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+   },
+  "black_bikini13": {
+    "scale": {
+      "x": 2.3,
+      "y": 2,
+      "z": 2.3
+    },
+    "position": {
+      "x": 0,
+      "y": -0.95,
+      "z": -0.03
+    },
+    "rotation": {
+      "x": 2,
+      "y": 0,
+      "z": 0
+    },
+    "menuScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "resourceId": "artifact:1906132192543638182",
     "attachPoint": "spine-middle",
     "menuPosition": {
       "x": 0,
@@ -407,7 +441,7 @@
       "z": 0
     }
   },
-  "forsale_black_bikiniv1": {
+  "cat for purple bikini": {
     "scale": {
       "x": 2.3,
       "y": 2,
@@ -428,7 +462,7 @@
       "y": 1,
       "z": 1
     },
-    "resourceId": "artifact:1902936446436639034",
+    "resourceId": "artifact:1906132192677855911",
     "attachPoint": "spine-middle",
     "menuPosition": {
       "x": 0,
