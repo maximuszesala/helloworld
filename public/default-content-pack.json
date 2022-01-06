@@ -84,23 +84,23 @@
       "z": 0
     },
     "menuScale": {
-      "x": 1,
-      "y": 1,
-      "z": 1
+      "x": 0.6,
+      "y": 0.6,
+      "z": 0.6
     },
     "resourceId": "artifact:1889899997483237771",
     "attachPoint": "spine-middle",
     "menuPosition": {
       "x": 0,
-      "y": -0.1,
+      "y": 0,
       "z": 0
     },
     "menuRotation": {
       "x": 0,
-      "y": 0,
+      "y": 180,
       "z": 0
     }
-},
+  },
   "user_hypnomaster_rednwhitebikini4": {
     "scale": {
       "x": 2.3,
@@ -126,12 +126,12 @@
     "attachPoint": "spine-middle",
     "menuPosition": {
       "x": 0,
-      "y": -0.1,
-      "z": 0
+      "y": -0.2,
+      "z": 0.2
     },
     "menuRotation": {
       "x": 0,
-      "y": 0,
+      "y": 180,
       "z": 0
     }
   },
@@ -165,7 +165,7 @@
     },
     "menuRotation": {
       "x": 0,
-      "y": 0,
+      "y": 180,
       "z": 0
     }
   },
@@ -199,7 +199,7 @@
     },
     "menuRotation": {
       "x": 0,
-      "y": 0,
+      "y": 180,
       "z": 0
     }
   },
@@ -233,7 +233,7 @@
     },
     "menuRotation": {
       "x": 0,
-      "y": 0,
+      "y": 180,
       "z": 0
     }
   },
@@ -267,19 +267,19 @@
     },
     "menuRotation": {
       "x": 0,
-      "y": 0,
+      "y": 180,
       "z": 0
     }
   },
   "red_bikini9": {
     "scale": {
-      "x": 2.3,
-      "y": 2,
-      "z": 2.3
+     "x": 2.15,
+      "y": 2.15,
+      "z": 2.15
     },
     "position": {
       "x": 0,
-      "y": -0.95,
+      "y": -1,
       "z": -0.03
     },
     "rotation": {
@@ -301,7 +301,7 @@
     },
     "menuRotation": {
       "x": 0,
-      "y": 0,
+      "y": 180,
       "z": 0
     }
   },
@@ -335,7 +335,7 @@
     },
     "menuRotation": {
       "x": 0,
-      "y": 0,
+      "y": 180,
       "z": 0
     }
   },
@@ -369,7 +369,7 @@
     },
     "menuRotation": {
       "x": 0,
-      "y": 0,
+      "y": 180,
       "z": 0
     }
   },
@@ -403,7 +403,7 @@
     },
     "menuRotation": {
       "x": 0,
-      "y": 0,
+      "y": 180,
       "z": 0
     }
    },
@@ -437,7 +437,143 @@
     },
     "menuRotation": {
       "x": 0,
+      "y": 180,
+      "z": 0
+    }
+  },
+  "mensblueswim": {
+    "scale": {
+      "x": 1.1,
+      "y": 1.1,
+      "z": 1.1
+    },
+    "position": {
+      "x": 0,
+      "y": -0.96,
+      "z": 1.26
+    },
+    "rotation": {
+      "x": 2,
       "y": 0,
+      "z": 0
+    },
+    "menuScale": {
+      "x": 0.5,
+      "y": 0.5,
+      "z": 0.5
+    },
+    "resourceId": "artifact:1907162070168634366",
+    "attachPoint": "spine-middle",
+    "menuPosition": {
+      "x": 0,
+      "y": -0.1,
+      "z": -0.6
+    },
+    "menuRotation": {
+      "x": 0,
+      "y": 180,
+      "z": 0
+    }
+  },
+  "mensblackswim": {
+    "scale": {
+      "x": 1.1,
+      "y": 1.1,
+      "z": 1.1
+    },
+    "position": {
+      "x": 0,
+      "y": -0.96,
+      "z": 1.26
+    },
+    "rotation": {
+      "x": 2,
+      "y": 0,
+      "z": 0
+    },
+    "menuScale": {
+      "x": 0.5,
+      "y": 0.5,
+      "z": 0.5
+    },
+    "resourceId": "artifact:1907162069514322940",
+    "attachPoint": "spine-middle",
+    "menuPosition": {
+      "x": 0,
+      "y": -0.1,
+      "z": -0.6
+    },
+    "menuRotation": {
+      "x": 0,
+      "y": 180,
+      "z": 0
+    }
+  },
+  "mensgreenswim": {
+    "scale": {
+      "x": 1.1,
+      "y": 1.1,
+      "z": 1.1
+    },
+    "position": {
+      "x": 0,
+      "y": -0.96,
+      "z": 1.26
+    },
+    "rotation": {
+      "x": 2,
+      "y": 0,
+      "z": 0
+    },
+    "menuScale": {
+      "x": 0.5,
+      "y": 0.5,
+      "z": 0.5
+    },
+    "resourceId": "artifact:1907162069245887483",
+    "attachPoint": "spine-middle",
+    "menuPosition": {
+      "x": 0,
+      "y": -0.1,
+      "z": -0.6
+    },
+    "menuRotation": {
+      "x": 0,
+      "y": 180,
+      "z": 0
+    }
+  },
+  "mensorangeswim": {
+    "scale": {
+      "x": 1.1,
+      "y": 1.1,
+      "z": 1.1
+    },
+    "position": {
+      "x": 0,
+      "y": -0.96,
+      "z": 1.26
+    },
+    "rotation": {
+      "x": 2,
+      "y": 0,
+      "z": 0
+    },
+    "menuScale": {
+      "x": 0.5,
+      "y": 0.5,
+      "z": 0.5
+    },
+    "resourceId": "artifact:1907162070034416637",
+    "attachPoint": "spine-middle",
+    "menuPosition": {
+      "x": 0,
+      "y": -0.1,
+      "z": -0.6
+    },
+    "menuRotation": {
+      "x": 0,
+      "y": 180,
       "z": 0
     }
   },
@@ -471,7 +607,7 @@
     },
     "menuRotation": {
       "x": 0,
-      "y": 0,
+      "y": 180,
       "z": 0
     }
   }
