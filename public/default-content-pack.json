@@ -67,6 +67,74 @@
       "z": 0
     }
   },
+  "user_max_supermanblackv2": {
+    "scale": {
+      "x": 1.2,
+      "y": 1.2,
+      "z": 1.2
+    },
+    "position": {
+      "x": 0,
+      "y": -0.18,
+      "z": 0
+    },
+    "rotation": {
+      "x": 2,
+      "y": 0,
+      "z": 0
+    },
+    "menuScale": {
+      "x": 1.9,
+      "y": 1.9,
+      "z": 1.9
+    },
+    "resourceId": "artifact:1910214478931166047",
+    "attachPoint": "spine-middle",
+    "menuPosition": {
+      "x": 0,
+      "y": 0.68,
+      "z": 0
+    },
+    "menuRotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  },
+  "user_rickblackmoneypockethoodie": {
+    "scale": {
+      "x": 1.45,
+      "y": 1.45,
+      "z": 1.45
+    },
+    "position": {
+      "x": 0,
+      "y": -0.24,
+      "z": 0
+    },
+    "rotation": {
+      "x": 2,
+      "y": 0,
+      "z": 0
+    },
+    "menuScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "resourceId": "artifact:1909378382085226615",
+    "attachPoint": "spine-middle",
+    "menuPosition": {
+      "x": 0,
+      "y": 0.8,
+      "z": 0
+    },
+    "menuRotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  },
   "user_hypnomaster_redphnxtat3": {
     "scale": {
       "x": 1,
