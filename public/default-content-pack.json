@@ -50,9 +50,9 @@
       "z": 0
     },
     "menuScale": {
-      "x": 0.5,
-      "y": 0.5,
-      "z": 0.5
+      "x": 0.2,
+      "y": 0.2,
+      "z": 0.2
     },
     "resourceId": "artifact:1892056199260537446",
     "attachPoint": "spine-middle",
@@ -84,15 +84,15 @@
       "z": 0
     },
     "menuScale": {
-      "x": 1.9,
-      "y": 1.9,
-      "z": 1.9
+      "x": 0.9,
+      "y": 0.9,
+      "z": 0.9
     },
     "resourceId": "artifact:1910214478931166047",
     "attachPoint": "spine-middle",
     "menuPosition": {
       "x": 0,
-      "y": 0.68,
+      "y": 0.1,
       "z": 0
     },
     "menuRotation": {
@@ -122,11 +122,79 @@
       "y": 1,
       "z": 1
     },
-    "resourceId": "artifact:1909378382085226615",
+    "resourceId": "artifact:1913085759821185930",
     "attachPoint": "spine-middle",
     "menuPosition": {
       "x": 0,
-      "y": 0.8,
+      "y": 0,
+      "z": 0
+    },
+    "menuRotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  },
+  "user_maxhoodie": {
+    "scale": {
+      "x": 1.45,
+      "y": 1.45,
+      "z": 1.61
+    },
+    "position": {
+      "x": 0,
+      "y": -0.24,
+      "z": 0.02
+    },
+    "rotation": {
+      "x": 2,
+      "y": 0,
+      "z": 0
+    },
+    "menuScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "resourceId": "artifact:1913085760207061900",
+    "attachPoint": "spine-middle",
+    "menuPosition": {
+      "x": 0,
+      "y": 0.0,
+      "z": 0
+    },
+    "menuRotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  },
+  "user_mrplesureplc": {
+    "scale": {
+      "x": 1.45,
+      "y": 1.45,
+      "z": 1.61
+    },
+    "position": {
+      "x": 0,
+      "y": -0.24,
+      "z": 0.02
+    },
+    "rotation": {
+      "x": 2,
+      "y": 0,
+      "z": 0
+    },
+    "menuScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "resourceId": "artifact:1913085759947015051",
+    "attachPoint": "spine-middle",
+    "menuPosition": {
+      "x": 0,
+      "y": 0,
       "z": 0
     },
     "menuRotation": {
@@ -526,15 +594,15 @@
       "z": 0
     },
     "menuScale": {
-      "x": 0.5,
-      "y": 0.5,
-      "z": 0.5
+      "x": 0.8,
+      "y": 0.8,
+      "z": 0.8
     },
     "resourceId": "artifact:1907162070168634366",
     "attachPoint": "spine-middle",
     "menuPosition": {
       "x": 0,
-      "y": -0.1,
+      "y": -0.5,
       "z": -0.6
     },
     "menuRotation": {
