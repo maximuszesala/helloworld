@@ -203,6 +203,40 @@
       "z": 0
     }
   },
+  "user_oliverhoodie": {
+    "scale": {
+      "x": 1.45,
+      "y": 1.45,
+      "z": 1.61
+    },
+    "position": {
+      "x": 0,
+      "y": -0.24,
+      "z": 0.02
+    },
+    "rotation": {
+      "x": 2,
+      "y": 0,
+      "z": 0
+    },
+    "menuScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "resourceId": "artifact:1913611499394302813",
+    "attachPoint": "spine-middle",
+    "menuPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "menuRotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  },
   "user_hypnomaster_redphnxtat3": {
     "scale": {
       "x": 1,
@@ -409,13 +443,13 @@
   },
   "red_bikini9": {
     "scale": {
-     "x": 2.15,
-      "y": 2.15,
+      "x": 2.15,
+      "y": 2,
       "z": 2.15
     },
     "position": {
       "x": 0,
-      "y": -1,
+      "y": -0.948,
       "z": -0.03
     },
     "rotation": {
