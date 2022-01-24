@@ -780,5 +780,209 @@
       "y": 180,
       "z": 0
     }
-  }
+  },
+  "redmanel": {
+    "scale": {
+      "x": 1.05,
+      "y": 1.05,
+      "z": 1.05
+    },
+    "position": {
+      "x": 0,
+      "y": -0.45,
+      "z": -0.01
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "menuScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "resourceId": "artifact:1921687468243944097",
+    "attachPoint": "spine-middle",
+    "menuPosition": {
+      "x": -0.5,
+      "y": -0.4,
+      "z": 0
+    },
+    "menuRotation": {
+      "x": 0,
+      "y": 180,
+      "z": 0
+    }
+  },
+  "blackandblue": {
+    "scale": {
+      "x": 1.05,
+      "y": 1.05,
+      "z": 1.05
+    },
+    "position": {
+      "x": 0,
+      "y": -0.45,
+      "z": -0.01
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "menuScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "resourceId": "artifact:1921687468638208675",
+    "attachPoint": "spine-middle",
+    "menuPosition": {
+      "x": -0.5,
+      "y": -0.4,
+      "z": 0
+    },
+    "menuRotation": {
+      "x": 0,
+      "y": 180,
+      "z": 0
+    }
+  },
+  "blackandgold": {
+    "scale": {
+      "x": 1.05,
+      "y": 1.05,
+      "z": 1.05
+    },
+    "position": {
+      "x": 0,
+      "y": -0.45,
+      "z": -0.01
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "menuScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "resourceId": "artifact:1921687468512379554",
+    "attachPoint": "spine-middle",
+    "menuPosition": {
+      "x": -0.5,
+      "y": -0.4,
+      "z": 0
+    },
+    "menuRotation": {
+      "x": 0,
+      "y": 180,
+      "z": 0
+    }
+  },
+  "blackandgoldfloral": {
+    "scale": {
+      "x": 1.05,
+      "y": 1.05,
+      "z": 1.05
+    },
+    "position": {
+      "x": 0,
+      "y": -0.45,
+      "z": -0.01
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "menuScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "resourceId": "artifact:1921687468772426404",
+    "attachPoint": "spine-middle",
+    "menuPosition": {
+      "x": -0.5,
+      "y": -0.4,
+      "z": 0
+    },
+    "menuRotation": {
+      "x": 0,
+      "y": 180,
+      "z": 0
+    }
+  },
+  "blackandsilver": {
+    "scale": {
+      "x": 1.05,
+      "y": 1.05,
+      "z": 1.05
+    },
+    "position": {
+      "x": 0,
+      "y": -0.45,
+      "z": -0.01
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "menuScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "resourceId": "artifact:1921687469426737831",
+    "attachPoint": "spine-middle",
+    "menuPosition": {
+      "x": -0.5,
+      "y": -0.4,
+      "z": 0
+    },
+    "menuRotation": {
+      "x": 0,
+      "y": 180,
+      "z": 0
+    }
+  },
+  "blueandblackfloral": {
+    "scale": {
+      "x": 1.05,
+      "y": 1.05,
+      "z": 1.05
+    },
+    "position": {
+      "x": 0,
+      "y": -0.45,
+      "z": -0.01
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "menuScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "resourceId": "artifact:1921687469166690982",
+    "attachPoint": "spine-middle",
+    "menuPosition": {
+      "x": -0.5,
+      "y": -0.4,
+      "z": 0
+    },
+    "menuRotation": {
+      "x": 0,
+      "y": 180,
+      "z": 0
+    }
+  }      
 }
