@@ -169,6 +169,108 @@
       "z": 0
     }
   },
+  "user_djmarcusblackhoodie": {
+    "scale": {
+      "x": 1.45,
+      "y": 1.45,
+      "z": 1.61
+    },
+    "position": {
+      "x": 0,
+      "y": -0.24,
+      "z": 0.02
+    },
+    "rotation": {
+      "x": 2,
+      "y": 0,
+      "z": 0
+    },
+    "menuScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "resourceId": "artifact:1925316103811105565",
+    "attachPoint": "spine-middle",
+    "menuPosition": {
+      "x": 0,
+      "y": 0.0,
+      "z": 0
+    },
+    "menuRotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  },
+  "user_djmarcusredhoodie": {
+    "scale": {
+      "x": 1.45,
+      "y": 1.45,
+      "z": 1.61
+    },
+    "position": {
+      "x": 0,
+      "y": -0.24,
+      "z": 0.02
+    },
+    "rotation": {
+      "x": 2,
+      "y": 0,
+      "z": 0
+    },
+    "menuScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "resourceId": "artifact:1925316103282623255",
+    "attachPoint": "spine-middle",
+    "menuPosition": {
+      "x": 0,
+      "y": 0.0,
+      "z": 0
+    },
+    "menuRotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  },
+  "user_djmarcusbluehoodie": {
+    "scale": {
+      "x": 1.45,
+      "y": 1.45,
+      "z": 1.61
+    },
+    "position": {
+      "x": 0,
+      "y": -0.24,
+      "z": 0.02
+    },
+    "rotation": {
+      "x": 2,
+      "y": 0,
+      "z": 0
+    },
+    "menuScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "resourceId": "artifact:1925316103551058714",
+    "attachPoint": "spine-middle",
+    "menuPosition": {
+      "x": 0,
+      "y": 0.0,
+      "z": 0
+    },
+    "menuRotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  },
   "user_mrplesureplc": {
     "scale": {
       "x": 1.45,
