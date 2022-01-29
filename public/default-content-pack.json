@@ -1120,5 +1120,175 @@
       "y": 180,
       "z": 0
     }
-  }  
+  },
+  "shhvneckt": {
+    "scale": {
+      "x": 1.03,
+      "y": 1,
+      "z": 1.1
+    },
+    "position": {
+      "x": 0,
+      "y": -0.055,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": -1
+    },
+    "menuScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "resourceId": "artifact:1913085760207061900",
+    "attachPoint": "spine-middle",
+    "menuPosition": {
+      "x": 0,
+      "y": 0.0,
+      "z": 0
+    },
+    "menuRotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  },
+  "phnxvneckt": {
+    "scale": {
+      "x": 1.03,
+      "y": 1,
+      "z": 1.1
+    },
+    "position": {
+      "x": 0,
+      "y": -0.055,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": -1
+    },
+    "menuScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "resourceId": "artifact:1925525215056494810",
+    "attachPoint": "spine-middle",
+    "menuPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "menuRotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  },
+  "freebievneckfemalecolorchng": {
+    "scale": {
+      "x": 1.03,
+      "y": 1,
+      "z": 1.1
+    },
+    "position": {
+      "x": 0,
+      "y": -0.055,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": -1
+    },
+    "menuScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "resourceId": "artifact:1925525214922277081",
+    "attachPoint": "spine-middle",
+    "menuPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "menuRotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  },
+  "damnginatshirt": {
+    "scale": {
+      "x": 1.03,
+      "y": 1,
+      "z": 1.1
+    },
+    "position": {
+      "x": 0,
+      "y": -0.055,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": -1
+    },
+    "menuScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "resourceId": "artifact:1925525214796447960",
+    "attachPoint": "spine-middle",
+    "menuPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "menuRotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  },
+  "mollyplaynoytshirt": {
+    "scale": {
+      "x": 1.03,
+      "y": 1,
+      "z": 1.1
+    },
+    "position": {
+      "x": 0,
+      "y": -0.055,
+      "z": 0
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": -1
+    },
+    "menuScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "resourceId": "artifact:1925525214402183382",
+    "attachPoint": "spine-middle",
+    "menuPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "menuRotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  }
 }
