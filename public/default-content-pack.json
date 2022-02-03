@@ -1189,6 +1189,40 @@
       "z": 0
     }
   },
+  "bradsuit": {
+    "scale": {
+      "x": 1.09,
+      "y": 1.09,
+      "z": 1.09
+    },
+    "position": {
+      "x": 0,
+      "y": -0.5,
+      "z": -0.01
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "menuScale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "resourceId": "artifact:1929402766367653986",
+    "attachPoint": "spine-middle",
+    "menuPosition": {
+      "x": -0.5,
+      "y": -0.4,
+      "z": 0
+    },
+    "menuRotation": {
+      "x": 0,
+      "y": 180,
+      "z": 0
+    }
+  },
   "shhvneckt": {
     "scale": {
       "x": 1.03,
